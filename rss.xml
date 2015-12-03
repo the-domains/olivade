@@ -4,7 +4,7 @@
         <description><![CDATA[Villa Olivade  – St Paul De Vence – Côte d'Azur]]></description>
         <link>https://thegrid.ai/olivade/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 03 Dec 2015 16:02:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Dec 2015 16:03:48 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/olivade/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Olivade Picture Gallery]]></title>
@@ -18,7 +18,7 @@
             <description><![CDATA[<article><h1>My Text</h1><p>here is my text</p></article>]]></description>
             <link>https://thegrid.ai/olivade/my-text/index.html</link>
             <guid isPermaLink="false">b747606a-0140-45de-bec1-11ed43c07016</guid>
-            <pubDate>Thu, 03 Dec 2015 15:34:47 GMT</pubDate>
+            <pubDate>Thu, 03 Dec 2015 16:03:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
