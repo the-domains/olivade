@@ -4,7 +4,7 @@
         <description><![CDATA[Villa Olivade  – St Paul De Vence – Côte d'Azur]]></description>
         <link>https://thegrid.ai/olivade/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 03 Dec 2015 11:19:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Dec 2015 11:19:21 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/olivade/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,13 +12,6 @@
             <link>https://thegrid.ai/olivade/ec3f5615-daa5-4cc3-a166-2319e85d05ee/index.html</link>
             <guid isPermaLink="false">ec3f5615-daa5-4cc3-a166-2319e85d05ee</guid>
             <pubDate>Thu, 03 Dec 2015 11:18:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Getting Started on The Grid]]></title>
-            <description><![CDATA[<article><h1>Getting Started on The Grid</h1><h2>Creating a Site</h2><p>Welcome to The Grid Beta, we’re excited to have you onboard! Here are a few quick tips to get you up and running. </p></article>]]></description>
-            <link>https://thegrid.ai/olivade/getting-started-on-the-grid/index.html</link>
-            <guid isPermaLink="false">4c7fdd67-00a6-48fd-baac-ef726f7bc232</guid>
-            <pubDate>Mon, 30 Nov 2015 19:17:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
