@@ -1,25 +1,25 @@
 ---
 inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: null
+hasPage: true
+inNav: true
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: 'Villa Olivade is a South facing villa with a private terrace and gardens. Located in the historic Domaine du Piol – St Paul de Vence, the villa features panoramic views to the coast and surrounding mountains.'
-datePublished: '2015-12-03T11:00:55.843Z'
-dateModified: '2015-12-03T10:59:37.984Z'
+datePublished: '2015-12-03T11:22:28.026Z'
+dateModified: '2015-12-03T11:22:07.823Z'
 title: "Villa Olivade – Domaine du Piol – Côte d'Azur"
 author: []
+sourcePath: _posts/2015-12-03-villa-olivade-domaine-du-piol-cote-dazur.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-03-villa-olivade-domaine-du-piol-cote-dazur.md
-published: true
-_type: Blurb
+url: villa-olivade-domaine-du-piol-cote-dazur/index.html
+_type: Article
 
 ---
 Villa Olivade -- Domaine du Piol -- Côte d'Azur
