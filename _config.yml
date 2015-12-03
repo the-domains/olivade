@@ -1,7 +1,7 @@
 name: Olivade
 favicon: null
-layout_spectrum: 0.56443
-typography_spectrum: 0.15799
+layout_spectrum: 0
+typography_spectrum: 0.25221
 title: "Villa Olivade  – St Paul De Vence – Côte d'Azur"
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#000000'
-    - '#e9e9e7'
-    - '#307db5'
-    - '#0d3043'
-    - '#01b458'
-  brandStrength: 0.625
+    - '#82afc6'
+    - '#040404'
+    - '#b8d7dc'
+    - '#7c6c53'
+    - '#385700'
+  brandStrength: 0.4375
   lightness: 0.625
-  saturation: 0.5
-  rhythmicContrast: 0.25
+  saturation: 0.5625
+  rhythmicContrast: 0.5
 purpose: []
