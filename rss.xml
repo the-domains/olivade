@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Villa Olivade  – St Paul De Vence – Côte d'Azur]]></title>
         <description><![CDATA[Villa Olivade  – St Paul De Vence – Côte d'Azur]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/olivade/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 03 Dec 2015 15:35:07 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 03 Dec 2015 15:57:31 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/olivade/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Olivade Picture Gallery]]></title>
+            <description><![CDATA[<article><h1>Olivade Picture Gallery</h1><p>View to the South from the Balcony</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bed13fee-2208-4689-bdd8-eaebb93b51da.jpg"></article>]]></description>
+            <link>https://thegrid.ai/olivade/ec3f5615-daa5-4cc3-a166-2319e85d05ee/index.html</link>
+            <guid isPermaLink="false">ec3f5615-daa5-4cc3-a166-2319e85d05ee</guid>
+            <pubDate>Thu, 03 Dec 2015 15:57:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[My Text]]></title>
             <description><![CDATA[<article><h1>My Text</h1><p>here is my text</p></article>]]></description>
-            <link>undefinedmy-text/index.html</link>
+            <link>https://thegrid.ai/olivade/my-text/index.html</link>
             <guid isPermaLink="false">b747606a-0140-45de-bec1-11ed43c07016</guid>
             <pubDate>Thu, 03 Dec 2015 15:34:47 GMT</pubDate>
         </item>
